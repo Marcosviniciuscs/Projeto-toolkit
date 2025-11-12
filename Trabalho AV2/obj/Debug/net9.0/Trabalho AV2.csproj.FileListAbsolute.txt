@@ -1,0 +1,4 @@
+D:\C# AULAS\Trabalho AV2\Trabalho AV2\obj\Debug\net9.0\Trabalho AV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# AULAS\Trabalho AV2\Trabalho AV2\obj\Debug\net9.0\Trabalho AV2.AssemblyInfoInputs.cache
+D:\C# AULAS\Trabalho AV2\Trabalho AV2\obj\Debug\net9.0\Trabalho AV2.AssemblyInfo.cs
+D:\C# AULAS\Trabalho AV2\Trabalho AV2\obj\Debug\net9.0\Trabalho AV2.csproj.CoreCompileInputs.cache

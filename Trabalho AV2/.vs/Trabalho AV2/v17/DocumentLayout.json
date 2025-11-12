@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# AULAS\\Trabalho AV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D694E0-6F5D-4453-B0B7-73EE6EF31751}|Trabalho AV2\\Trabalho AV2.csproj|d:\\c# aulas\\trabalho av2\\trabalho av2\\av2\\item2_decisores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D694E0-6F5D-4453-B0B7-73EE6EF31751}|Trabalho AV2\\Trabalho AV2.csproj|solutionrelative:trabalho av2\\av2\\item2_decisores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D694E0-6F5D-4453-B0B7-73EE6EF31751}|Trabalho AV2\\Trabalho AV2.csproj|d:\\c# aulas\\trabalho av2\\trabalho av2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D694E0-6F5D-4453-B0B7-73EE6EF31751}|Trabalho AV2\\Trabalho AV2.csproj|solutionrelative:trabalho av2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D694E0-6F5D-4453-B0B7-73EE6EF31751}|Trabalho AV2\\Trabalho AV2.csproj|d:\\c# aulas\\trabalho av2\\trabalho av2\\av2\\item1_problemainstancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D694E0-6F5D-4453-B0B7-73EE6EF31751}|Trabalho AV2\\Trabalho AV2.csproj|solutionrelative:trabalho av2\\av2\\item1_problemainstancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D694E0-6F5D-4453-B0B7-73EE6EF31751}|Trabalho AV2\\Trabalho AV2.csproj|d:\\c# aulas\\trabalho av2\\trabalho av2\\av2\\item5_simuladorafd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D694E0-6F5D-4453-B0B7-73EE6EF31751}|Trabalho AV2\\Trabalho AV2.csproj|solutionrelative:trabalho av2\\av2\\item5_simuladorafd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D694E0-6F5D-4453-B0B7-73EE6EF31751}|Trabalho AV2\\Trabalho AV2.csproj|d:\\c# aulas\\trabalho av2\\trabalho av2\\av2\\item4_detectorloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D694E0-6F5D-4453-B0B7-73EE6EF31751}|Trabalho AV2\\Trabalho AV2.csproj|solutionrelative:trabalho av2\\av2\\item4_detectorloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D694E0-6F5D-4453-B0B7-73EE6EF31751}|Trabalho AV2\\Trabalho AV2.csproj|d:\\c# aulas\\trabalho av2\\trabalho av2\\av2\\item3_reconhecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D694E0-6F5D-4453-B0B7-73EE6EF31751}|Trabalho AV2\\Trabalho AV2.csproj|solutionrelative:trabalho av2\\av2\\item3_reconhecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Item2_Decisores.cs",
+              "DocumentMoniker": "D:\\C# AULAS\\Trabalho AV2\\Trabalho AV2\\AV2\\Item2_Decisores.cs",
+              "RelativeDocumentMoniker": "Trabalho AV2\\AV2\\Item2_Decisores.cs",
+              "ToolTip": "D:\\C# AULAS\\Trabalho AV2\\Trabalho AV2\\AV2\\Item2_Decisores.cs",
+              "RelativeToolTip": "Trabalho AV2\\AV2\\Item2_Decisores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:52:48.026Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# AULAS\\Trabalho AV2\\Trabalho AV2\\Program.cs",
+              "RelativeDocumentMoniker": "Trabalho AV2\\Program.cs",
+              "ToolTip": "D:\\C# AULAS\\Trabalho AV2\\Trabalho AV2\\Program.cs",
+              "RelativeToolTip": "Trabalho AV2\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:40:11.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item5_SimuladorAFD.cs",
+              "DocumentMoniker": "D:\\C# AULAS\\Trabalho AV2\\Trabalho AV2\\AV2\\Item5_SimuladorAFD.cs",
+              "RelativeDocumentMoniker": "Trabalho AV2\\AV2\\Item5_SimuladorAFD.cs",
+              "ToolTip": "D:\\C# AULAS\\Trabalho AV2\\Trabalho AV2\\AV2\\Item5_SimuladorAFD.cs",
+              "RelativeToolTip": "Trabalho AV2\\AV2\\Item5_SimuladorAFD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:53:28.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item4_DetectorLoop.cs",
+              "DocumentMoniker": "D:\\C# AULAS\\Trabalho AV2\\Trabalho AV2\\AV2\\Item4_DetectorLoop.cs",
+              "RelativeDocumentMoniker": "Trabalho AV2\\AV2\\Item4_DetectorLoop.cs",
+              "ToolTip": "D:\\C# AULAS\\Trabalho AV2\\Trabalho AV2\\AV2\\Item4_DetectorLoop.cs",
+              "RelativeToolTip": "Trabalho AV2\\AV2\\Item4_DetectorLoop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:53:15.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item3_Reconhecedor.cs",
+              "DocumentMoniker": "D:\\C# AULAS\\Trabalho AV2\\Trabalho AV2\\AV2\\Item3_Reconhecedor.cs",
+              "RelativeDocumentMoniker": "Trabalho AV2\\AV2\\Item3_Reconhecedor.cs",
+              "ToolTip": "D:\\C# AULAS\\Trabalho AV2\\Trabalho AV2\\AV2\\Item3_Reconhecedor.cs",
+              "RelativeToolTip": "Trabalho AV2\\AV2\\Item3_Reconhecedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:53:00.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item1_ProblemaInstancia.cs",
+              "DocumentMoniker": "D:\\C# AULAS\\Trabalho AV2\\Trabalho AV2\\AV2\\Item1_ProblemaInstancia.cs",
+              "RelativeDocumentMoniker": "Trabalho AV2\\AV2\\Item1_ProblemaInstancia.cs",
+              "ToolTip": "D:\\C# AULAS\\Trabalho AV2\\Trabalho AV2\\AV2\\Item1_ProblemaInstancia.cs",
+              "RelativeToolTip": "Trabalho AV2\\AV2\\Item1_ProblemaInstancia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:52:34.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
